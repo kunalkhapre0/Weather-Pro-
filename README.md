@@ -58,7 +58,7 @@ A highly interactive, feature-rich weather dashboard built with Vanilla JavaScri
     * Paste your key there.
 
 4.  **Run:**
-    * Open in [Weather Pro+](http://127.0.0.1:3000/index.html)'your browser.
+    * Open in [Weather Pro+](http://127.0.0.1:3000/index.html)your browser.
 
 ## 🤝 Contributing
 
