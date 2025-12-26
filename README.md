@@ -18,7 +18,7 @@ A highly interactive, feature-rich weather dashboard built with Vanilla JavaScri
 ![Forecast](https://github.com/kunalkhapre0/Weather-Pro-/blob/74bba950de40ef992b02d9db9b789187b8e07d98/Screenshot%202025-12-26%20at%2019.54.24.png)
 
 ### Favorites Management
-![Favorites](https://github.com/kunalkhapre0/Weather-Pro-/blob/74bba950de40ef992b02d9db9b789187b8e07d98/Screenshot%202025-12-26%20at%2019.54.24.png)
+![Favorites](https://github.com/kunalkhapre0/Weather-Pro-/blob/592572a5d8d710c0aa5229d7993beffd392a2c44/Screenshot%202025-12-26%20at%2019.53.51.png)
 
 ---
 
