@@ -9,7 +9,7 @@ A highly interactive, feature-rich weather dashboard built with Vanilla JavaScri
 ## 📸 App Screenshots
 
 ### Dashboard & Glassmorphism UI
-![Dashboard](Screenshot%202025-12-26%20at%2019.50.19.jpg)
+![Deshbord](https://github.com/kunalkhapre0/Weather-Pro-/blob/01dc1d79a4a5bf08acd77f2bbbcebc0e067d9625/Screenshot%202025-12-26%20at%2019.50.19.png)
 
 ### Search & Real-time Conditions
 ![Search View](Screenshot%202025-12-26%20at%2019.52.43.jpg)
