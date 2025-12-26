@@ -12,7 +12,7 @@ A highly interactive, feature-rich weather dashboard built with Vanilla JavaScri
 ![Deshbord](https://github.com/kunalkhapre0/Weather-Pro-/blob/01dc1d79a4a5bf08acd77f2bbbcebc0e067d9625/Screenshot%202025-12-26%20at%2019.50.19.png)
 
 ### Search & Real-time Conditions
-![Search View](Screenshot%202025-12-26%20at%2019.52.43.jpg)
+![Search View](https://github.com/kunalkhapre0/Weather-Pro-/blob/0cabe1a7aa1d689f6a4ad11efb1c445919358db1/Screenshot%202025-12-26%20at%2019.52.43.png)
 
 ### 14-Day & Hourly Forecast
 ![Forecast](Screenshot%202025-12-26%20at%2019.54.24.jpg)
