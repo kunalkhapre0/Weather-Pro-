@@ -15,10 +15,10 @@ A highly interactive, feature-rich weather dashboard built with Vanilla JavaScri
 ![Search View](https://github.com/kunalkhapre0/Weather-Pro-/blob/0cabe1a7aa1d689f6a4ad11efb1c445919358db1/Screenshot%202025-12-26%20at%2019.52.43.png)
 
 ### 14-Day & Hourly Forecast
-![Forecast](Screenshot%202025-12-26%20at%2019.54.24.jpg)
+![Forecast](https://github.com/kunalkhapre0/Weather-Pro-/blob/74bba950de40ef992b02d9db9b789187b8e07d98/Screenshot%202025-12-26%20at%2019.54.24.png)
 
 ### Favorites Management
-![Favorites](Screenshot%202025-12-26%20at%2019.53.51.jpg)
+![Favorites](https://github.com/kunalkhapre0/Weather-Pro-/blob/74bba950de40ef992b02d9db9b789187b8e07d98/Screenshot%202025-12-26%20at%2019.54.24.png)
 
 ---
 
